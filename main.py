@@ -18,8 +18,8 @@ app.layout = html.Div(
                 ],
                 'layout':{
                     'title': 'Graph title',
-                    'xaxis': {'title':'x-axis'},
-                    'yaxis': {'title':'y-axis'},
+                    'xaxis': {'title':'Months'},
+                    'yaxis': {'title':'Dollars($)'},
 
                 }
             }
